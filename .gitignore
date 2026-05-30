@@ -23,4 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 Truffleconfig.js
-config.bat
+.env
